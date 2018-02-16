@@ -1,0 +1,17 @@
+.container, .header-inner, .fotter-inner); ?>
+
+
+<link rel= "stylesheet" href="<?php echo get_stylesheet_uri(); ?>'
+
+
+
+<footer>
+<div class="footer-inner">
+    <div class="copyright'>
+     <p><?php loginfo('description'); ?></p>
+     <p>Copyright $
+     
+     
+     
+     
+     
