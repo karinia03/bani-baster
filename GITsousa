@@ -1,0 +1,8 @@
+cp -r poll ~
+
+
+git push
+php.2017.git
+
+
+~/php.2017$
